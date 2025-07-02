@@ -3,3 +3,6 @@ this file created only for test and learn porpuses!
 
 
 this line is use for testing git reset.
+
+
+this line is same as above but in another commit containing a new file.
