@@ -11,6 +11,9 @@ async function goodFunction() {
 }
 
 
+function fixedError() {
+    console.log("error fixed! bring stashed files back.")
+}
 
 // async function badFunction() {
 //     console.log("this function is causing some errors!");
