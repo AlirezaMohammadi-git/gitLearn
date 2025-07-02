@@ -1,2 +1,3 @@
 # gitLearn
-learning git and github
+- This is me adding new changes
+- learning git and github
